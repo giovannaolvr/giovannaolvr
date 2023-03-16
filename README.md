@@ -1,16 +1,22 @@
-### Hi there 👋
+## Olá! Eu sou a Giovanna
 
-<!--
-**giovannaolvr/giovannaolvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Estou cursando o 3º semestre em Análise e Desenvolvimento de Sistemas.
+- 🙋‍♀️ Tenho 19 anos.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/giovannaolvr">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="giovannaolvr2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://www.instagram.com/giovanna_olvr/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</div>
+
+<div >
+  <a href="https://github.com/giovannaolvr">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giovannaolvr&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannaolvr&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
