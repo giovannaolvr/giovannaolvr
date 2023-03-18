@@ -1,5 +1,7 @@
 ## Olá! Eu sou a Giovanna 
 
+📧 Email para contato: giovannaolvr2003@gmail.com
+
 <h3> Sobre mim... </h3>
 
 - 🙋‍♀️ Tenho 19 anos.
