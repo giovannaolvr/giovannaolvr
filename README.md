@@ -12,7 +12,7 @@
 <h3> Tenho experiência com... </h3>
 
 - 💻 C++		|		JAVA		|		Python
-- 🌐 HTML		|		JavaScript		|		CSS		|		Bootstrap 
+- 🌐 HTML		|		JavaScript		|		CSS		|		Bootstrap		|		React
 - 🛢 PostgreSQL
 
 <h3> Meus stats<h3/>
