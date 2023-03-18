@@ -28,7 +28,7 @@
 <div>
   <a href="https://github.com/giovannaolvr">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <a href="[giovannaolvr2003@gmail.com](https://mail.google.com/mail/u/3/?ogbl#inbox)">
+  <a href="giovannaolvr2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 	<a href="https://www.linkedin.com/in/giovanna-oliveira-0b8414268/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
