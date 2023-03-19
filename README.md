@@ -11,7 +11,7 @@
 
 <h3> Tenho experiência com... </h3>
 
-- 💻 C++		|		JAVA		|		Python
+- 💻 C++		|		JAVA		
 - 🌐 HTML		|		JavaScript		|		CSS		|		Bootstrap		|		React
 - 🛢 PostgreSQL
 
