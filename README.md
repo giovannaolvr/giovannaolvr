@@ -7,7 +7,7 @@
 - 🙋‍♀️ Tenho 19 anos.
 - 🎓 Estou cursando o 3º semestre em Análise e Desenvolvimento de Sistemas.
 - 🆗 Possuo nível intermediário em inglês.
-- 🧐 Motivada a aprender e a crescer proficionalmente.
+- 🧐 Motivada à aprender e a crescer profissionalmente.
 
 <h3> Tenho experiência com... </h3>
 
