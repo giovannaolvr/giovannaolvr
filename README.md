@@ -15,15 +15,7 @@
 - 🌐 HTML		|		JavaScript		|		CSS		|		Bootstrap		|		React
 - 🛢 PostgreSQL
 
-<h3> Meus stats<h3/>
-<div>
-  	<a href="https://github.com/giovannaolvr">
-    	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=giovannaolvr&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
-    	<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannaolvr&theme=tokyonight&hide_border=false&&layout=compact"/>
-  	</a>
-</div>
-
-<h3> Onde me encontrar: </h3>
+<h3> Redes Sociais: </h3>
 
 <div>
 	<a href="https://github.com/giovannaolvr">    
