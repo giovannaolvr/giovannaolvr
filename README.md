@@ -5,7 +5,7 @@
 <h3> Sobre mim... </h3>
 
 - 🙋‍♀️ Tenho 19 anos.
-- 🎓 Estou cursando o 3º semestre em Análise e Desenvolvimento de Sistemas.
+- 🎓 Estou cursando o 4º semestre em Análise e Desenvolvimento de Sistemas.
 - 🆗 Possuo nível avançado em inglês. 
 - 🧐 Motivada à aprender e a crescer profissionalmente.
 
