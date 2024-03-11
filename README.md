@@ -4,8 +4,8 @@
 
 <h3> Sobre mim... </h3>
 
-- 🙋‍♀️ Tenho 19 anos.
-- 🎓 Estou cursando o 4º semestre em Análise e Desenvolvimento de Sistemas.
+- 🙋‍♀️ Tenho 20 anos.
+- 🎓 Estou cursando o 5º semestre em Análise e Desenvolvimento de Sistemas.
 - 🆗 Possuo nível avançado em inglês. 
 - 🧐 Motivada à aprender e a crescer profissionalmente.
 
@@ -13,5 +13,6 @@
 
 - 💻 C++		|		JAVA		
 - 🌐 HTML		|		JavaScript		|		CSS		|		Bootstrap		|		React
-- 🛢 PostgreSQL
+- 📱 Flutter 
+- 🛢 PostgreSQL | Floor 
 
