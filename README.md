@@ -4,15 +4,7 @@
 
 <h3> Sobre mim... </h3>
 
-- 🙋‍♀️ Tenho 20 anos.
-- 🎓 Estou cursando o 5º semestre em Análise e Desenvolvimento de Sistemas.
+- 🙋‍♀️ Tenho 21 anos.
+- 🎓 Sou formanda em Análise e Desenvolvimento de Sistemas.
 - 🆗 Possuo nível avançado em inglês. 
 - 🧐 Motivada à aprender e a crescer profissionalmente.
-
-<h3> Tenho experiência com... </h3>
-
-- 💻 C++		|		JAVA		
-- 🌐 HTML		|		JavaScript		|		CSS		|		Bootstrap		|		React
-- 📱 Flutter 
-- 🛢 PostgreSQL | Floor 
-
